@@ -23,7 +23,7 @@ The Gemini Health App is a Streamlit-based application that utilizes the Google 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jatinm17/gemini-health-app.git
+   git clone https://github.com/yourusername/gemini-health-app.git
    cd gemini-health-app
    ```
 
@@ -79,6 +79,12 @@ gemini-health-app/
 1. **Input a prompt** in the sidebar.
 2. **Upload an image** of food items.
 3. **Click the button** to get a detailed analysis of the food items and their calorie counts.
+
+## Deployment
+
+The Gemini Health App is deployed and can be accessed at the following link:
+
+[Gemini Health App](https://nutrition-appgi-tlkog4ddbf8fve2pdbynqv.streamlit.app/)
 
 ---
 
